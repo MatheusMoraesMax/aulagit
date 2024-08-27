@@ -1,0 +1,8 @@
+/*seletor de elemento*/
+body{
+    background-color: gray;
+}
+div{
+    border-bottom: 1px solid;
+    margin: 3%;
+}
