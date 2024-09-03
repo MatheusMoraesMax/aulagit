@@ -1,0 +1,26 @@
+body
+{background-color: rgb(94, 97, 97);}
+footer
+{
+    text-align: center;
+    color: antiquewhite;
+    background-color: black;
+}
+th{
+    border-style: double;
+    color: antiquewhite;
+background-color: rgb(3, 3, 3);
+text-align: center;
+}
+table{
+    color:rgb(255, 255, 255);
+    border-style:solid;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(7, 7, 7);
+    text-align: center;
+    
+}
+td:hover{
+    background-color: rgb(255, 0, 0);
+    color: blue;
+}
